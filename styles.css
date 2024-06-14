@@ -242,13 +242,13 @@
 }
 
 .personal-website-content {
-    display: flex;
+    /* display: flex; */
     padding: 1rem;
     flex-direction: column;
 }
 
 .personal-website-content h1 {
-    font-size: clamp(1rem, 2.5vw, 6rem);
+    font-size: clamp(1rem, 2.3vw, 6rem);
     margin-bottom: 1rem;
 }
 
@@ -264,13 +264,13 @@
 }
 
 .libaery-content {
-    display: flex;
+    /* display: flex; */
     padding: 1rem;
     flex-direction: column;
 }
 
 .libaery-content h1 {
-    font-size: clamp(1rem, 2.5vw, 6rem);
+    font-size: clamp(1rem, 2.3vw, 6rem);
     margin-bottom: 1rem;
 }
 
@@ -287,13 +287,13 @@
 }
 
 .junit-content {
-    display: flex;
+    /* display: flex; */
     padding: 1rem;
     flex-direction: column;
 }
 
 .junit-content h1 {
-    font-size: clamp(1rem, 2.5vw, 6rem);
+    font-size: clamp(1rem, 2.3vw, 6rem);
     margin-bottom: 1rem;
 }
 
@@ -315,7 +315,7 @@
 }
 
 .crm-content h1 {
-    font-size: clamp(1rem, 2.5vw, 6rem);
+    font-size: clamp(1rem, 2.3vw, 6rem);
     margin-bottom: 1rem;
 }
 
@@ -337,7 +337,7 @@
 }
 
 .dry-content h1 {
-    font-size: clamp(1rem, 2.5vw, 6rem);
+    font-size: clamp(1rem, 2.3vw, 6rem);
     margin-bottom: 1rem;
 }
 
